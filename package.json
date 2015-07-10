@@ -1,0 +1,23 @@
+{
+  "name": "mousetrap-pause",
+  "version": "1.0.0",
+  "description": "Adds methods to pause and to unpause all combos or specific combos to Mousetrap",
+  "main": "mousetrap-pause.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quafzi/mousetrap-pause"
+  },
+  "keywords": [
+    "mousetrap",
+    "pause"
+  ],
+  "author": "Thomas Birke <tbirke@netextreme.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quafzi/mousetrap-pause/issues"
+  },
+  "homepage": "https://github.com/quafzi/mousetrap-pause"
+}
